@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Coding" width="100%">
+</p>
+
+
+
+
 ## I am just a man  👋
 
 <!--
@@ -42,13 +49,9 @@ Here are some ideas to get you started:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Coding" width="100%">
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left">
