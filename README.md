@@ -37,37 +37,12 @@ Here are some ideas to get you started:
 
 
 ## Stats : 
-<style>
-  .card-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-  }
-  .card {
-    border: 2px solid #ff00ff;
-    border-radius: 10px;
-    overflow: hidden;
-    transition: transform 0.3s;
-  }
-  .card:hover {
-    border-color: #00ffff;
-    transform: rotate(10deg);
-  }
-</style>
 
-<p align="center" class="card-container">
-  <a href="https://github.com/cashmerkholo/github-readme-stats#gh-dark-mode-only">
-    <img class="card" src="https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=dark#gh-dark-mode-only" alt="cashmerkholo's GitHub stats" />
-  </a>
-  <a href="https://github.com/cashmerkholo/github-readme-stats">
-    <img class="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo" alt="Top Languages" />
-  </a>
-</p>
 
-</a>
-<a href="https://github.com/cashmerkholo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cashmerkholo&layout=compact&langs_count=8&card_width=320" />
-</a>
+![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=highcontrast)
 
--->
+
+
+## Top Languages : 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats) 
+
