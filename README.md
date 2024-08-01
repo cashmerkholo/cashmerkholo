@@ -35,13 +35,18 @@ Here are some ideas to get you started:
 <br></dev>
 
 ## Stats : 
+[![cashmerkholo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-dark-mode-only)
+[![cashmerkholo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats)
 
 
-<a href="https://github.com/cashmerkholo/github-readme-stats">
+
+<!--<a href="https://github.com/cashmerkholo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cashmerkholo" />
 </a>
 <a href="https://github.com/cashmerkholo/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cashmerkholo&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
+-->
