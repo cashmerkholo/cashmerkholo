@@ -36,15 +36,17 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cashmerkholo/github-stats/main/github-stats.svg" alt="cashmerkholo's GitHub stats" />
+  [![cashmerkholo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-dark-mode-only)
+  [![cashmerkholo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats)
+
+
   <img src="https://raw.githubusercontent.com/cashmerkholo/github-stats/main/top-langs.svg" alt="Top Languages" />
 </p>
 
 
 ## Stats : 
-[![cashmerkholo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-dark-mode-only)
-[![cashmerkholo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cashmerkholo/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats)
 
 
 
