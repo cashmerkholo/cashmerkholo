@@ -118,16 +118,7 @@ Here are some ideas to get you started:
 <br></dev>
 
 
-<!--
-## Stats : 
 
-
-
-![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=highcontrast)
-
-
-
-## Top Languages : 
 
 
 
