@@ -38,17 +38,15 @@ Here are some ideas to get you started:
 
 ## Stats : 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=highcontrast" alt="cashmerkholo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo" alt="Top Languages" />
-</p>
 
 
-
-<!--![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=highcontrast)
+![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&show_icons=true&theme=highcontrast)
 
 
 
 ## Top Languages : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats) -->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats) 
 
