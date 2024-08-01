@@ -17,69 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <div class="markdown-heading" dir="auto">
-        <h1 class="heading-element" dir="auto">
-            <svg class="octicon octicon-link" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
-                <path fill="currentColor" d="M12 1.5C7.033 1.5 3 5.533 3 10.5S7.033 19.5 12 19.5 21 15.467 21 10.5 16.967 1.5 12 1.5zM12 17.5c-2.75 0-5-2.25-5-5s2.25-5 5-5 5 2.25 5 5-2.25 5-5 5z"></path>
-            </svg> cashmer_kholo
-        </h1>
-        <a id="user-content-cashmer_kholo" class="anchor" aria-label="Permalink: cashmer_kholo" href="#cashmer_kholo">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-                <path fill="currentColor" d="M8 1.5a6.5 6.5 0 0 1 6.5 6.5v0a6.5 6.5 0 0 1-13 0v0A6.5 6.5 0 0 1 8 1.5zm0 1a5.5 5.5 0 0 0-5.5 5.5v0a5.5 5.5 0 0 0 11 0v0A5.5 5.5 0 0 0 8 2.5zm0 2a3.5 3.5 0 0 1 3.5 3.5v0a3.5 3.5 0 0 1-7 0v0A3.5 3.5 0 0 1 8 4.5z"></path>
-            </svg>
-        </a>
-    </div>
-    <div class="languages" style="margin-top: 20px;">
-        <h2>Languages I Use:</h2>
-        <ul style="list-style-type: none; padding: 0;">
-            <li>Python</li>
-            <li>Bash</li>
-            <li>C</li>
-            <li>C++</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Java</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-        </ul>
-    </div>
-    <div class="cybersecurity" style="margin-top: 20px;">
-        <h2>Cybersecurity Enthusiast</h2>
-        <p>I am passionate about cybersecurity and always eager to learn and apply new skills in this domain.</p>
-    </div>
-</article>
-
-<style>
-    .markdown-body {
-        font-family: Arial, sans-serif;
-        color: #333;
-    }
-    .heading-element {
-        display: flex;
-        align-items: center;
-    }
-    .octicon-link {
-        margin-right: 10px;
-        color: #000; /* Black color for the scythe icon */
-    }
-    .languages li {
-        background: #f4f4f4;
-        margin: 5px 0;
-        padding: 5px;
-        border-radius: 3px;
-        font-size: 16px;
-    }
-    .cybersecurity {
-        background: #e6f7ff;
-        padding: 15px;
-        border-radius: 5px;
-    }
-    .cybersecurity h2 {
-        margin-top: 0;
-    }
-</style>
+https://camo.githubusercontent.com/7a14b397d213bc52578b9089d1ec02e3dbd77783a82966d0f96c78ba3d489875/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c
 
 
 
