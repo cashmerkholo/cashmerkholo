@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&theme=transparent&show_icons=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo&layout=pie)](https://github.com/cashmerkholo/github-readme-stats)
-
-
 
 
 
@@ -37,3 +34,9 @@ Here are some ideas to get you started:
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img align="left" alt="GitHub" width="30px" src="https://camo.githubusercontent.com/e245c978ad271d30dcbfa637b0aad42d3532c5fa467a778e01c2210ed6c5ef81/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c3419cebd6e0f4039108d1d4f9ab4a6fe4cf9a55783e3f794ff3188c383c29a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667"><img align="left" alt="Bash" width="30px" src="https://camo.githubusercontent.com/c3419cebd6e0f4039108d1d4f9ab4a6fe4cf9a55783e3f794ff3188c383c29a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626173682f626173682d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width: 100%;"></a></p>
 <br></dev>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo&layout=pie)](https://github.com/cashmerkholo/github-readme-stats)![cashmerkholo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cashmerkholo&theme=transparent&show_icons=true)  
+
+
+
