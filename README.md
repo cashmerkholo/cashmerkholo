@@ -42,8 +42,14 @@ Here are some ideas to get you started:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Coding" width="100%">
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
+<img align="" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left">
 <a href="https://codepen.io/cashmerkholo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cashmerkholo" height="30" width="40" /></a>
@@ -109,7 +115,7 @@ Here are some ideas to get you started:
 <br></dev>
 
 
-
+<!--
 ## Stats : 
 
 
@@ -123,4 +129,5 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cashmerkholo)](https://github.com/cashmerkholo/github-readme-stats) 
+-->
 
