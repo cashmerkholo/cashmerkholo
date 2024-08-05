@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Linux , Cyber security , Python , C , C++ , ..**
 
-- 📫 How to reach me **kilwazolduk505@gmail.com**
+<!--- 📫 How to reach me **kilwazolduk505@gmail.com**-->
 
 - 📄 Know about my experiences [None](None)
 
